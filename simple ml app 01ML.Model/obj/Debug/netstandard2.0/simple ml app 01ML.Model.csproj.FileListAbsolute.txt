@@ -1,0 +1,9 @@
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\bin\Debug\netstandard2.0\simple ml app 01ML.Model.deps.json
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\bin\Debug\netstandard2.0\simple ml app 01ML.Model.dll
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\bin\Debug\netstandard2.0\simple ml app 01ML.Model.pdb
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\obj\Debug\netstandard2.0\simple ml app 01ML.Model.AssemblyInfoInputs.cache
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\obj\Debug\netstandard2.0\simple ml app 01ML.Model.AssemblyInfo.cs
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\obj\Debug\netstandard2.0\simple ml app 01ML.Model.csproj.CoreCompileInputs.cache
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\obj\Debug\netstandard2.0\simple ml app 01ML.Model.dll
+E:\About Dot Net\simple ml app 01\simple ml app 01ML.Model\obj\Debug\netstandard2.0\simple ml app 01ML.Model.pdb
